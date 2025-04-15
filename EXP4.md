@@ -37,9 +37,6 @@ except ValueError:
 
 ### Output:
 
-![stl exp4 c](https://github.com/user-attachments/assets/2fe05eb5-1146-44bd-829e-9b01edd91b7d)
-
-
 ![stl exp4 t](https://github.com/user-attachments/assets/66a1e2cd-be98-4bbb-aaa2-5323a9720f3a)
 
 
